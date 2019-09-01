@@ -1,6 +1,6 @@
 {
     "name": "enca",    
-    "displayName": "Enca",
+    "displayName": "Enca dark",
     "description": "The enca color theme",
     "version": "0.1.0",
     "publisher": "LevisAgaba",
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Enca",
+                "label": "Enca dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/enca-color-theme.json"
             }
